@@ -16,7 +16,7 @@ namespace TonysTimer
         /// <returns>Version</returns>
         public string getVersion() { return "1"; }
         #endregion
-        #region constructor
+        #region constructors
         /// <summary>
         /// Makes a new Timer class for easy tracking of average time
         /// </summary>
