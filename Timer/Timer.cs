@@ -14,7 +14,7 @@ namespace TonysTimer
         /// Gets version of the class
         /// </summary>
         /// <returns>Version</returns>
-        public string getVersion() { return "1"; }
+        public string getVersion() { return "1.0.1"; }
         #endregion
         #region constructors
         /// <summary>
@@ -90,15 +90,15 @@ namespace TonysTimer
         /// <summary>
         /// Gets the StartTime in Datetime format
         /// </summary>
-        public DateTime StartTime { get => startTime; }
+        public DateTime StartTime { get { return startTime; } }
         /// <summary>
         /// Gets the EndTime in Datetime format
         /// </summary>
-        public DateTime EndTime { get => endTime; }
+        public DateTime EndTime { get { return endTime; } }
         /// <summary>
         /// Gets the List of average times
         /// </summary>
-        public List<TimeSpan> AdvrageTimes { get => advrageTimes; }
+        public List<TimeSpan> AdvrageTimes { get { return advrageTimes; } }
         #endregion
     }
 }
