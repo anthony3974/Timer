@@ -1,4 +1,3 @@
-using BaseClassLibrary;
 using System.Collections.Generic;
 using System;
 
@@ -7,7 +6,7 @@ namespace TonysTimer
     /// <summary>
     /// Class that tracks average time
     /// </summary>
-    public class Timer : BaseClass
+    public class Timer
     {
         #region class info
         /// <summary>
