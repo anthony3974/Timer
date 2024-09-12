@@ -1,4 +1,4 @@
-# Timer
+# Timer | Class Library
 
 A simple timer to calculate average time and normal time span.
 
