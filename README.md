@@ -1,7 +1,15 @@
 # Timer
 
-Done
+### Status: Done
 
-Simple timer to get average time and normal time span
+A simple timer to calculate average time and normal time span.
 
-**[docs](http://sharing-4269.infinityfreeapp.com/old)**
+```csharp
+/*
+Method: GetAverage
+Summary: Adds the values and divides it by the amount
+Returns: The difference in TimeSpan format
+*/
+```
+
+**[docs](https://tonycad.com/docs/Timer.html)**
