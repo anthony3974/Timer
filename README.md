@@ -1,7 +1,5 @@
 # Timer
 
-### Status: Done
-
 A simple timer to calculate average time and normal time span.
 
 ```csharp
